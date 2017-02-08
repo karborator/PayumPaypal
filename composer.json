@@ -30,9 +30,8 @@
         "bin-dir": "bin"
     },
     "autoload": {
-        "psr-4": { "PayumPaypal\\": "" }
+        "psr-4": { "PayumPaypal\\": "src/" }
     },
-    "target-dir": "PayumPaypal",
     "extra": {
         "branch-alias": {
             "dev-master": "1.2-dev"
